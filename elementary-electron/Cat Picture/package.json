@@ -1,0 +1,19 @@
+{
+  "name": "CatPicture",
+  "version": "1.0.0",
+  "description": "cat picture example for nodeschool's elementary-electron",
+  "main": "app.js",
+  "scripts": {
+    "test": "electron app.js"
+  },
+  "keywords": [
+    "electron",
+    "npm",
+    "cat-picture"
+  ],
+  "author": "Subramanyam Molleti",
+  "license": "ISC",
+  "dependencies": {
+    "cat-picture": "^5.1.2"
+  }
+}
